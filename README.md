@@ -13,11 +13,7 @@
 -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:B68CEB,100:34E1E6&height=210&section=header&text=Muhammad%20Miqdad%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%20%7C%20%20Firmware%20%E2%80%A2%20IoT%20%E2%80%A2%20Edge%20AI&descSize=18&descAlignY=60&animation=fadeIn"
-    width="100%"
-    alt="Muhammad Miqdad Ahmad"
-  />
+  <img src="banner.svg" width="100%" alt="Muhammad Miqdad Ahmad — Embedded Systems Engineer" />
 </div>
 
 <div align="center">
@@ -162,8 +158,9 @@ const engineer_t miqdad = {
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34E1E6,100:B68CEB&height=120&section=footer" width="100%" alt="" />
   <br/>
+  <code>◦──────────────◦ ⏻ ◦──────────────◦</code>
+  <br/><br/>
   <em>“I build the layer where software meets silicon.”</em>
   <br/>
   <sub>⚡ this profile runs at 3.3V — logic high, always</sub>
