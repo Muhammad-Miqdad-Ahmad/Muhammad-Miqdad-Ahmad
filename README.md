@@ -7,9 +7,8 @@
   │   2. Add this file as  README.md  at the repo root.                     │
   │   3. GitHub renders it on your profile automatically.                   │
   │                                                                         │
-  │  Before publishing: replace YOUR-INSTANCE.vercel.app (appears twice in  │
-  │  the telemetry section) with your own self-hosted github-readme-stats   │
-  │  domain — the public host is paused by its maintainer.                  │
+  │  Stats cards are served by your OWN self-hosted github-readme-stats     │
+  │  instance at miqdad-stats.vercel.app (env var PAT_1 = your GitHub PAT). │
   └───────────────────────────────────────────────────────────────────────┘
 -->
 
@@ -119,20 +118,19 @@ const engineer_t miqdad = {
 
 <!--
   NOTE: the two cards below run on your OWN self-hosted github-readme-stats
-  instance. Replace `YOUR-INSTANCE.vercel.app` with your Vercel domain after
-  deploying. The public github-readme-stats.vercel.app host is paused by its
-  maintainer, so it must NOT be used.
+  instance (miqdad-stats.vercel.app). If a card ever breaks, check the Vercel
+  project is deployed and its PAT_1 token hasn't expired.
 -->
 
 <div align="center">
   <img
     height="170"
-    src="https://YOUR-INSTANCE.vercel.app/api?username=Muhammad-Miqdad-Ahmad&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=130A20&title_color=B68CEB&icon_color=34E1E6&text_color=9C88B4&ring_color=34E1E6"
+    src="https://miqdad-stats.vercel.app/api?username=Muhammad-Miqdad-Ahmad&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=130A20&title_color=B68CEB&icon_color=34E1E6&text_color=9C88B4&ring_color=34E1E6"
     alt="Muhammad's GitHub stats"
   />
   <img
     height="170"
-    src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Muhammad-Miqdad-Ahmad&layout=compact&langs_count=8&hide_border=true&bg_color=130A20&title_color=B68CEB&text_color=9C88B4"
+    src="https://miqdad-stats.vercel.app/api/top-langs/?username=Muhammad-Miqdad-Ahmad&layout=compact&langs_count=8&hide_border=true&bg_color=130A20&title_color=B68CEB&text_color=9C88B4"
     alt="Top languages"
   />
 </div>
