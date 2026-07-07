@@ -122,7 +122,7 @@ const maheen = {
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=maheen-zahid-26&hide_border=true&background=0D1117&ring=FF2A3C&fire=FF5A68&currStreakLabel=FF2A3C&sideLabels=9da5b4&dates=6e7681&stroke=21262d"
+    src="https://streak-stats.demolab.com?user=maheen-zahid-26&hide_border=true&background=0D1117&ring=FF2A3C&fire=FF5A68&currStreakNum=E6EDF3&currStreakLabel=FF2A3C&sideNums=E6EDF3&sideLabels=9da5b4&dates=8b949e&stroke=21262d"
     alt="GitHub streak"
   />
 </div>
