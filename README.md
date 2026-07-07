@@ -1,105 +1,172 @@
+<!--
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  GitHub PROFILE README for  @maheen-zahid-26                          │
+  │                                                                       │
+  │  To use it:                                                           │
+  │   1. Create a new PUBLIC repo named EXACTLY:  maheen-zahid-26         │
+  │   2. Add this file as  README.md  at the repo root.                   │
+  │   3. GitHub renders it on your profile automatically.                 │
+  │                                                                       │
+  │  (Optional) For the contribution "snake" animation, add the workflow  │
+  │  noted near the bottom of this file.                                  │
+  └─────────────────────────────────────────────────────────────────────┘
+-->
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=34E1E6&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Firmware+Developer;IoT+Architect;Edge+AI+Enthusiast" alt="Embedded Systems Engineer · Firmware Developer · IoT Architect · Edge AI Enthusiast" />
-
-# Muhammad Miqdad Ahmad
-
-`~/portfolio $ whoami`
-
-**I build the layer where software meets silicon.**
-Firmware, microcontrollers, and connected hardware — from bare-metal C to RTOS and edge AI,
-I design systems that run lean and reliably on tiny chips.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-34E1E6?style=for-the-badge&labelColor=130A20)](https://muhammad-miqdad-ahmad.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-B68CEB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=130A20)](https://www.linkedin.com/in/muhammad-miqdad-ahmad)
-[![Email](https://img.shields.io/badge/Email-say_hello-B68CEB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=130A20)](mailto:muhammadmiqdadahmad@gmail.com)
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:B3001B,100:FF2A3C&height=210&section=header&text=Maheen%20Zahid&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%20%7C%20%20Project%20Manager&descSize=18&descAlignY=60&animation=fadeIn"
+    width="100%"
+    alt="Maheen Zahid"
+  />
 </div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=FF2A3C&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+Project+Manager;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MERN;I+build+scalable+products+%26+lead+the+teams;From+first+commit+to+production+%F0%9F%9A%80"
+      alt="What I do"
+    />
+  </a>
+</div>
 
-## `> cat about.c`
+<div align="center">
+  <a href="https://maheenzahid.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF2A3C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/maheen-zahid-63185b27a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zmaheen05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=maheen-zahid-26&color=FF2A3C&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-```c
-#include <engineer.h>
+<br/>
 
-const engineer_t miqdad = {
-    .role      = "Embedded Firmware Developer @ Techanzy Limited",
-    .education = "BS Computer Engineering, ITU Lahore (2022–2026)",
-    .location  = "Lahore, Punjab, Pakistan",
-    .focus     = { "Embedded Systems", "IoT", "Computer Architecture", "Edge AI" },
-    .also      = { "MERN stack", "Flutter" },
-    .status    = ONLINE,  /* PWR LED: on */
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```ts
+const maheen = {
+  role: "Full-Stack Developer & Project Manager",
+  based_in: "Lahore, Pakistan 🇵🇰",
+  stack: ["React", "Next.js", "Node.js", "MERN", "TypeScript"],
+  domains: ["FinTech", "E-Commerce", "AI / Computer Vision", "Blockchain", "Embedded / IoT"],
+  currently: "Frontend Developer @ Livosys",
+  studying: "B.S. Computer Engineering @ ITU Lahore (2022–2026)",
+  superpower: "Bridging the gap between engineering and delivery",
 };
 ```
 
-- 🔧 Currently shipping firmware at **Techanzy Limited**
-- 🎓 Computer Engineering student at **Information Technology University**
-- 🧠 Final Year Project: **on-device ML** for driving-behavior classification on an STM32
-- 🌉 I like living on the boundary — where a wrong register write matters and milliamps count
+- 🔭 &nbsp;I ship production-ready web apps **and** run the delivery — from architecture to sprint planning.
+- 🧑‍💻 &nbsp;Formerly **Development Team Lead** & **Project Manager** — I've led teams, owned budgets & timelines, and mentored junior devs.
+- 🏆 &nbsp;My Final-Year Project **Drive Metrics AI** placed **3rd** at ITU — on-device ML (TensorFlow Lite on an STM32) + a Flutter app.
+- 🌱 &nbsp;Always leveling up across the **MERN** stack, **Next.js**, and applied **AI/ML**.
+- 💬 &nbsp;Ask me about React, Next.js, Node, agile delivery, or turning a messy backlog into shipped features.
+- 📫 &nbsp;Reach me at **zmaheen05@gmail.com**
 
----
+<br/>
 
-## `> ls /featured-projects`
-
-| REF | Project | What it is | Stack |
-|-----|---------|------------|-------|
-| `U1` | **[Drive Metrics AI](https://github.com/Muhammad-Miqdad-Ahmad/Drive-Metrices-AI)** ★ FYP | On-device ML vehicle telematics — TFLite Micro MLP (~98.7% acc) classifying 6 driving behaviors + ~3g collision detection, GPS, SD logging, cloud upload. See also the [Flutter app](https://github.com/Muhammad-Miqdad-Ahmad/AI-Drive-Metrices-App) & [ML models](https://github.com/maheen-zahid-26/DriveMetrcisAI-Models) | `STM32L475` `TFLite Micro` `CMSIS-NN` `C/C++` |
-| `P1` | **[Air-Sense](https://github.com/Muhammad-Miqdad-Ahmad/Air-Sense)** | ESP32-C3 air-quality monitor — FreeRTOS producer/consumer tasks, Blynk cloud, MOSFET-switched rail for true deep-sleep current | `ESP32-C3` `FreeRTOS` `C++` |
-| `P2` | **[IoT Heat Monitor](https://github.com/Muhammad-Miqdad-Ahmad/IOT-project-air-quality-sensor)** | Sensor telemetry over MQTT to a self-hosted Mosquitto broker on Arch Linux | `ESP32` `MQTT` `Linux` |
-| `P3` | **[4-Bit Binary Multiplier](https://github.com/Muhammad-Miqdad-Ahmad/4-bit-multiplier)** | Array multiplier in structural Verilog **and** as a discrete-IC circuit (7408 + 7483) with self-checking testbench & PCB layout | `Verilog` `Digital Logic` |
-| `P4` | **[Threaded Web Crawler](https://github.com/Muhammad-Miqdad-Ahmad/threaded-web-crawler)** | Concurrent crawler with pthread workers, libcurl, mutex-guarded counters, rdtsc cycle benchmarking | `C` `pthreads` `libcurl` |
-| `P5` | **[OOP Chess](https://github.com/Muhammad-Miqdad-Ahmad/Chess)** | Fully functional chess engine built on OOP principles | `C++` `OOP` |
-
----
-
-## `> ldd --skills`
-
-**Embedded / Hardware**
-
-![C](https://img.shields.io/badge/C-strong-34E1E6?style=flat-square&logo=c&logoColor=white&labelColor=130A20)
-![C++](https://img.shields.io/badge/C++-strong-34E1E6?style=flat-square&logo=cplusplus&logoColor=white&labelColor=130A20)
-![STM32](https://img.shields.io/badge/STM32-B68CEB?style=flat-square&logo=stmicroelectronics&logoColor=white&labelColor=130A20)
-![ESP32](https://img.shields.io/badge/ESP32-B68CEB?style=flat-square&logo=espressif&logoColor=white&labelColor=130A20)
-![Arduino](https://img.shields.io/badge/Arduino-B68CEB?style=flat-square&logo=arduino&logoColor=white&labelColor=130A20)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-B68CEB?style=flat-square&labelColor=130A20)
-![Verilog](https://img.shields.io/badge/Verilog-B68CEB?style=flat-square&labelColor=130A20)
-![UART/SPI/I2C](https://img.shields.io/badge/UART·SPI·I2C-B68CEB?style=flat-square&labelColor=130A20)
-![RISC--V](https://img.shields.io/badge/RISC--V-B68CEB?style=flat-square&logo=riscv&logoColor=white&labelColor=130A20)
-![TFLite Micro](https://img.shields.io/badge/TFLite_Micro-B68CEB?style=flat-square&logo=tensorflow&logoColor=white&labelColor=130A20)
-
-**Software / Web / Mobile**
-
-![Python](https://img.shields.io/badge/Python-9C88B4?style=flat-square&logo=python&logoColor=white&labelColor=130A20)
-![Node.js](https://img.shields.io/badge/Node.js-9C88B4?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=130A20)
-![React](https://img.shields.io/badge/React-9C88B4?style=flat-square&logo=react&logoColor=white&labelColor=130A20)
-![Express](https://img.shields.io/badge/Express-9C88B4?style=flat-square&logo=express&logoColor=white&labelColor=130A20)
-![MongoDB](https://img.shields.io/badge/MongoDB-9C88B4?style=flat-square&logo=mongodb&logoColor=white&labelColor=130A20)
-![Flutter](https://img.shields.io/badge/Flutter-9C88B4?style=flat-square&logo=flutter&logoColor=white&labelColor=130A20)
-![Linux](https://img.shields.io/badge/Arch_Linux-9C88B4?style=flat-square&logo=archlinux&logoColor=white&labelColor=130A20)
-![Git](https://img.shields.io/badge/Git-9C88B4?style=flat-square&logo=git&logoColor=white&labelColor=130A20)
-
----
-
-## `> gpio read --telemetry`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Miqdad-Ahmad&show_icons=true&hide_border=true&bg_color=130A20&title_color=B68CEB&icon_color=34E1E6&text_color=9C88B4&ring_color=34E1E6" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Miqdad-Ahmad&layout=compact&hide_border=true&bg_color=130A20&title_color=B68CEB&text_color=9C88B4" alt="Top languages" height="165" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,php&theme=dark" alt="languages" />
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Miqdad-Ahmad&hide_border=true&background=130A20&ring=34E1E6&fire=B68CEB&currStreakLabel=B68CEB&sideLabels=9C88B4&currStreakNum=F1EAF8&sideNums=F1EAF8&dates=9C88B4" alt="Contribution streak" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,materialui&theme=dark" alt="frontend" />
+
+**Backend &nbsp;&amp;&nbsp; Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,supabase&theme=dark" alt="backend" />
+
+**AI / ML, Mobile &nbsp;&amp;&nbsp; Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,flutter,git,github,gitlab,vercel,cypress&theme=dark" alt="tooling" />
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-FF2A3C?style=flat-square&logo=trello&logoColor=white" />
 
 </div>
 
----
+<br/>
+
+## 📊 GitHub Stats
+
+<!--
+  These cards come from the shared public github-readme-stats instance, which
+  is occasionally rate-limited. If a card ever shows broken on your profile,
+  deploy your own free instance (takes ~3 min) and swap the domain:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
 
 <div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=maheen-zahid-26&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF2A3C&icon_color=FF5A68&text_color=9da5b4"
+    alt="Maheen's GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheen-zahid-26&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF2A3C&text_color=9da5b4"
+    alt="Top languages"
+  />
+</div>
 
-`open to: collaborations · embedded roles · conversations about hardware`
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=maheen-zahid-26&hide_border=true&background=0D1117&ring=FF2A3C&fire=FF5A68&currStreakLabel=FF2A3C&sideLabels=9da5b4&dates=6e7681&stroke=21262d"
+    alt="GitHub streak"
+  />
+</div>
 
-**muhammadmiqdadahmad@gmail.com**
+<br/>
 
-<sub>⚡ this profile runs at 3.3V — logic high, always</sub>
+## 🚀 Featured Projects
 
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| 🏆 **[Drive Metrics AI](https://github.com/maheen-zahid-26/DriveMetrcisAI-Models)** | On-device ML that scores driving behaviour — **3rd place** Final-Year Project | `Python` `TF Lite` `STM32` `Flutter` |
+| ⛓️ **[Energiswap Explorer](https://github.com/maheen-zahid-26/energiswap)** | Blockchain explorer with live token tracking & Web3 wallet integration | `Next.js` `Node` `PostgreSQL` `Ethers.js` |
+| ✋ **[AI Hand-Gesture Game](https://github.com/maheen-zahid-26/AI-Powered-Hand-Gesture-Game-Interface)** | Control games with your hands using real-time computer vision | `Python` `OpenCV` `MediaPipe` |
+| 🛋️ **[Comfort Crate](https://github.com/maheen-zahid-26/comfort-crate)** · [live ↗](https://comfort-crate.vercel.app) | Motion-rich e-commerce storefront | `React` `Framer Motion` |
+| 🏠 **[Real Estate App](https://github.com/maheen-zahid-26/real-estate-app)** | Server-rendered property browsing & search | `Angular` `SSR` `Tailwind` |
+| 👁️ **[Computer Vision Project](https://github.com/maheen-zahid-26/Computer-Vision-Project)** | Python vision backend behind a Next.js interface | `Next.js` `Python` `OpenCV` |
+
+<div align="center">
+  <a href="https://github.com/maheen-zahid-26?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=FF2A3C" alt="All repos" />
+  </a>
+</div>
+
+<br/>
+
+## 🤝 Let's build something
+
+<div align="center">
+  <strong>Open to full-stack roles, freelance builds, and project leadership.</strong>
+  <br/><br/>
+  <a href="mailto:zmaheen05@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-FF2A3C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://maheenzahid.vercel.app"><img src="https://img.shields.io/badge/View%20my%20work-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maheen-zahid-63185b27a"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+<!--
+  Optional CONTRIBUTION SNAKE animation:
+  1. Create .github/workflows/snake.yml in this repo with the Platane/snk action.
+  2. Then replace the footer image below with the generated snake svg:
+     https://raw.githubusercontent.com/maheen-zahid-26/maheen-zahid-26/output/github-contribution-grid-snake-dark.svg
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A3C,100:B3001B&height=120&section=footer" width="100%" alt="" />
+  <br/>
+  <em>“I bridge the gap between engineering and delivery.”</em>
 </div>
