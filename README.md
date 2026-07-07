@@ -88,7 +88,7 @@ const engineer_t miqdad = {
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Miqdad-Ahmad&show_icons=true&hide_border=true&bg_color=130A20&title_color=B68CEB&icon_color=34E1E6&text_color=9C88B4&ring_color=34E1E6" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Miqdad-Ahmad&layout=compact&hide_border=true&bg_color=130A20&title_color=B68CEB&text_color=9C88B4" alt="Top languages" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Miqdad-Ahmad&hide_border=true&background=130A20&ring=34E1E6&fire=B68CEB&currStreakLabel=B68CEB&sideLabels=9C88B4&currStreakNum=F1EAF8&sideNums=F1EAF8&dates=9C88B4" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Muhammad-Miqdad-Ahmad&hide_border=true&background=130A20&ring=34E1E6&fire=B68CEB&currStreakLabel=B68CEB&sideLabels=9C88B4&currStreakNum=F1EAF8&sideNums=F1EAF8&dates=9C88B4" alt="Contribution streak" />
 
 </div>
 
